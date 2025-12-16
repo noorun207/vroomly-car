@@ -5,38 +5,38 @@ export default function HowToUse() {
 
   const guestSteps = [
     {
-      image: "https://images.pexels.com/photos/4246200/pexels-photo-4246200.jpeg",
+      image: "https://images.unsplash.com/photo-1585433013633-75f802e06715?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Download App",
     },
     {
-      image: "https://images.pexels.com/photos/3184611/pexels-photo-3184611.jpeg",
+      image: "https://images.unsplash.com/photo-1726066012751-2adfb5485977?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Search and Book",
     },
     {
-      image: "https://images.pexels.com/photos/3823483/pexels-photo-3823483.jpeg",
+      image: "https://plus.unsplash.com/premium_photo-1661319080445-5e33f023fa63?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Verify Profile",
     },
     {
-      image: "https://images.pexels.com/photos/7994435/pexels-photo-7994435.jpeg",
+      image: "https://plus.unsplash.com/premium_photo-1658506667598-81820a9b362c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Enjoy Your Trip",
     },
   ];
 
   const hostSteps = [
     {
-      image: "https://images.pexels.com/photos/3184611/pexels-photo-3184611.jpeg",
+      image: "https://images.unsplash.com/photo-1731533281237-19d9677324f2?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Download App",
     },
     {
-      image: "https://images.pexels.com/photos/3823483/pexels-photo-3823483.jpeg",
+      image: "https://images.unsplash.com/photo-1622868773005-a27653f64570?q=80&w=464&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Register & Create Account",
     },
     {
-      image: "https://images.pexels.com/photos/5384625/pexels-photo-5384625.jpeg",
+      image: "https://images.unsplash.com/photo-1655658299560-78079eb8efa4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Upload Car Details",
     },
     {
-      image: "https://images.pexels.com/photos/7994435/pexels-photo-7994435.jpeg",
+      image: "https://plus.unsplash.com/premium_photo-1661384338206-853a1fa3be6e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       title: "Start Getting Bookings",
     },
   ];
