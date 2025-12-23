@@ -156,22 +156,22 @@ export default function Categories() {
           </div>
 
           <div className="card delivery">
-            <img src="https://images.pexels.com/photos/4246200/pexels-photo-4246200.jpeg" />
+            <img src="https://images.unsplash.com/photo-1727893512947-8bdc773ceb02?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
             <button className="card-btn">Delivery ↗</button>
           </div>
 
           <div className="card budget">
-            <img src="https://images.pexels.com/photos/4386375/pexels-photo-4386375.jpeg" />
+            <img src="https://plus.unsplash.com/premium_photo-1661326271158-c1a4a2ab4526?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
             <button className="card-btn light">Budget ↗</button>
           </div>
 
           <div className="card toprated">
-            <img src="https://images.pexels.com/photos/5384625/pexels-photo-5384625.jpeg" />
+            <img src="https://plus.unsplash.com/premium_photo-1682309510079-4d11227b84b9?q=80&w=967&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
             <button className="card-btn dark">Top Rated ↗</button>
           </div>
 
           <div className="card suv">
-            <img src="https://images.pexels.com/photos/7994435/pexels-photo-7994435.jpeg" />
+            <img src="https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" />
             <button className="card-btn">SUV ↗</button>
           </div>
 
